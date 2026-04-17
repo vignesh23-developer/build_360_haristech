@@ -13,3 +13,4 @@ mongoose.connect(MONGO_URI)
 });
 
 module.exports = mongoose;
+
